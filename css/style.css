@@ -1123,6 +1123,7 @@ footer {
   line-height: 64px;
   font-size: 16px;
   padding: 0;
+  -webkit-appearance: none;
 }
 @media (max-width: 768px) {
   .price_form_container .services_price_form .row .btn {
