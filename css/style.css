@@ -1082,6 +1082,7 @@ footer {
   line-height: 64px;
   color: #7E868E;
   padding-left: 58px;
+  -webkit-appearance: none;
 }
 @media (max-width: 768px) {
   .price_form_container .services_price_form .row input[type=text], .price_form_container .services_price_form .row input[type=tel] {
@@ -2420,6 +2421,7 @@ footer {
   margin-bottom: 20px;
   height: 60px;
   padding-left: 67px;
+  -webkit-appearance: none;
 }
 @media (max-width: 500px) {
   .contacts .contacts_container .contacts_block_1 .contacts_block_form .contacts_form input {
@@ -2700,6 +2702,7 @@ footer {
       flex-wrap: wrap;
 }
 .footer .footer_container .footer_block .footer_form input[type=tel] {
+  -webkit-appearance: none;
   width: 262px;
   height: 65px;
   border-radius: 8px;

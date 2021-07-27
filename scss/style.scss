@@ -831,6 +831,7 @@ footer {
                 line-height: 64px;
                 color: #7E868E;
                 padding-left: 58px;
+                -webkit-appearance: none;
                 @media (max-width: 768px) {
                     width: 240px;
                     font-size: 14px;
@@ -2002,6 +2003,7 @@ footer {
                         margin-bottom: 20px;
                         height: 60px;
                         padding-left: 67px;
+                        -webkit-appearance: none;
                         @media (max-width: 500px) {
                             height: 40px;
                         }
@@ -2238,6 +2240,7 @@ footer {
                 justify-content: space-between;
                 flex-wrap: wrap;
                 input[type=tel] {
+                    -webkit-appearance: none;
                     width: 262px;
                     height: 65px;
                     border-radius: 8px;
